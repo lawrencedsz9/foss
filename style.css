@@ -76,4 +76,96 @@ li a {
 li a:hover {
     background-color: #494949;
 }
+.container2 {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+.title1 {
+    font-size: 60px;
+    font-style: initial;
+    font-weight: 800;
+    color: white;
+    -webkit-text-stroke: 1px #fff;
+    margin-left: 5%;
+}
+
+#benefit-head {
+    font-weight: 700;
+    color: white;
+    margin-left: 5%;
+}
+
+#benefit-content {
+    text-align: left;
+    font-size: 25px;
+    font-family: ilatics;
+    margin-left: 5%;
+    color: papayawhip;
+}
+h3 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4e4e4e;
+
+}
+.container3{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+.title2 {
+    font-size: 30px;
+    font-style: initial;
+    font-weight: 800;
+    color: whitesmoke;
+    -webkit-text-stroke: 1px #fff;
+    margin-left: 5%;
+}
+
+#alt {
+    font-weight: bolder;
+    color: grey;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 40px;
+    text-align: left;
+}
+
+#altc {
+    font-size: 25px;
+    padding-left: 5%;
+    text-align: left;
+    font-style: italic;
+    padding-right: 5%;
+    color: papayawhip;
+}
+.arr1{
+    width: 300px;
+}
+.arr2{
+    width: 200px;
+    margin-right: 2%;
+}
+.arr3{
+    width: 220px;
+}
+.arr4{
+    width:350px;
+    margin-top: -12%;
+    margin-right:-5%;
+}
+.arr5{
+    width: 250px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: gray;
+    color: white;
+  }
 
